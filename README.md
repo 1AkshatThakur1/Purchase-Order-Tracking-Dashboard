@@ -96,4 +96,11 @@ Kaggle: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 4. Explore interactive tables, charts, and machine learning results  
 
 
+## ⚖️ License
+
+This project is licensed under the **MIT License**. Feel free to use and modify!  
+Please cite the Olist dataset:  
+“Brazilian E-Commerce Public Dataset by Olist,” Kaggle.  
+
+
 
